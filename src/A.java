@@ -4,4 +4,8 @@ public class A {
     public A(int a) {
         this.a = a;
     }
+    public void Test2(){
+        int b=20;
+        //추가변경
+    }
 }
