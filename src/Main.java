@@ -2,11 +2,14 @@
 // 에디터 여백에 있는 <icon src="AllIcons.Actions.Execute"/> 아이콘을 클릭하세요.
 public class Main {
 
+
     public void  sum(int a , int b){
         System.out.printf("a+b = %d", a+b);
     }
-
-
+    
+    public void  b(){
+        System.out.printf("기능 b 추가구현");
+    }
 
     public static void main(String[] args) {
         //TIP 캐럿을 강조 표시된 텍스트에 놓고 <shortcut actionId="ShowIntentionActions"/>을(를) 누르면
