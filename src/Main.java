@@ -5,6 +5,10 @@ public class Main {
 
     public void  sum(int a , int b){
         System.out.printf("a+b = %d", a+b);
+        System.out.printf("hotfix수정중1");
+        System.out.printf("hotfix수정중2");
+        System.out.printf("hotfix수정중3");
+        System.out.printf("hotfix수정중4");
     }
     
     public void  b(){
